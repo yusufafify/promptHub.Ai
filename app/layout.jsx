@@ -4,7 +4,12 @@ import Provider from "@components/Provider";
 
 export const metadata = {
   title: "PromptHub.ai",
-  discription: "Discover & Share AI Prompts",
+  description: "Discover & Share AI Prompts",
+  icons:{
+    icon:[
+      'assets/images/logo.png'
+    ]
+  }
 };
 
 function RootLayout({ children }) {
