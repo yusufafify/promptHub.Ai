@@ -24,8 +24,8 @@ const Nav = () => {
         <img
           src="/assets/images/logo.png"
           alt="logo"
-          width={50}
-          height={50}
+          width={85}
+          height={85}
           className="object-contain"
         />
         <p className="logoText ">PromptVerse.ai</p>
