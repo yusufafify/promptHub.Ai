@@ -1,4 +1,4 @@
-# PromptVerse.ai
+# ![logo](https://github.com/yusufafify/promptVerse.Ai/assets/115397064/797eef1c-9fd5-4afa-9edc-02538514bdae) PromptVerse.ai
 
 PromptVerse.ai is a website designed to unleash the full potential of GPT by allowing users to create, share, and explore AI prompts. This project utilizes the power of Next.js for server-side rendering, MongoDB for data storage, and integrates Google authentication for a secure user experience.
 
