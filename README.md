@@ -53,3 +53,16 @@ npm install
 # Run the development server
 npm run dev
 ```
+
+## Preview
+
+[Link to the live Preview](https://prompt-verse-ai.onrender.com/) click here or click on the image
+
+[![PromptVerse.ai Demo](https://github.com/yusufafify/promptVerse.Ai/assets/115397064/21845455-29b6-4ac6-befe-b6701c6c7897)](https://prompt-verse-ai.onrender.com/)
+
+
+## Screenshots
+![PromptVerse 1](https://github.com/yusufafify/promptVerse.Ai/assets/115397064/21845455-29b6-4ac6-befe-b6701c6c7897)
+![PromptVerse 2](https://github.com/yusufafify/promptVerse.Ai/assets/115397064/a264ec26-536b-49d6-80b3-d2b3bca26237)
+![PromptVerse 3](https://github.com/yusufafify/promptVerse.Ai/assets/115397064/7dfbed12-0c74-41a5-8c52-2c352e3cafb1)
+![PromptVerse 4](https://github.com/yusufafify/promptVerse.Ai/assets/115397064/6b3224f6-f687-474b-9899-37c507677634)
