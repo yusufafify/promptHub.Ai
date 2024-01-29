@@ -37,7 +37,7 @@ To set up and run the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/PromptVerse.ai.git
+https://github.com/yusufafify/promptVerse.Ai.git
 
 # Install dependencies
 cd PromptVerse.ai
